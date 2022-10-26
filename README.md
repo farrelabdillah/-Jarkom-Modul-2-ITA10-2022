@@ -28,6 +28,11 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
  <img src="Screenshot/6.PNG">
  <br>
  <img src="Screenshot/7.PNG">
+ <br>
+ Test ping ke google.com:
+ <br>
+ <img src="Screenshot/8.PNG">
+ <br> 
 
 # **Langkah Pengerjaan**
 Nomor 2:
@@ -58,6 +63,14 @@ $TTL   604800
 www     IN      CNAME   wise.ita10.com.
 ```
 di /etc/bind/jarkom/wise/wise.ita10.com pada node WISE
+<br>
+<br>
+Test ping ke wise.ita10.com:
+<br>
+<img src="Screenshot/9.PNG">
+<br>
+<img src="Screenshot/9-2.PNG">
+<br> 
 
 <br>
 Nomor 3:
@@ -88,6 +101,14 @@ $TTL   604800
 www     IN      CNAME   eden.wise.ita10.com.
 ```
 di /etc/bind/jarkom/eden/eden.wise.ita10.com pada node WISE
+<br>
+<br>
+Test ping ke eden.wise.ita10.com:
+<br>
+<img src="Screenshot/10.PNG">
+<br>
+<img src="Screenshot/10-2.PNG">
+<br> 
 
 <br>
 Nomor 4:
@@ -140,6 +161,12 @@ zone "wise.ita10.com" {
 };
 ```
 di /etc/bin/named.conf.local di node Berlint
+<br>
+<br>
+Test ping ke wise.ita10.com setelah Berlint dijadikan DNS Slave untuk domain utama:
+<br>
+<img src="Screenshot/11.PNG">
+<br> 
 
 <br>
 Nomor 6:
@@ -219,8 +246,16 @@ Menambahkan
 www     IN      CNAME   strix.operation.wise.ita10.com.
 ```
 di /etc/bind/jarkom/operation/strix/strix.operation.wise.ita10.com pada node Berlint
-
+<br>
+<br>
+Test ping ke strix.operation.wise.ita10.com:
+<br>
+<img src="Screenshot/12.PNG">
+<br>
+<img src="Screenshot/12-2.PNG">
 <br> 
+<br> 
+
 Nomor 8:
 Setelah melakukan konfigurasi server, maka dilakukan konfigurasi Webserver. Pertama dengan webserver www.wise.yyy.com. Pertama, Loid membutuhkan webserver dengan DocumentRoot pada /var/www/wise.yyy.com
 
