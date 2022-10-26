@@ -8,11 +8,10 @@ Kelompok:
 Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum jarkom modul 2
 <br>
 
-**Topologi**
+# **Topologi**
 <br>
 <img src="Screenshot/1.PNG">
 <br>
- Penjelasan topologi
  <br>
  Berikut adalah screenshot konfigurasi dari setiap komputer dalam topologi
  <br>
@@ -32,6 +31,7 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
  <br>
  <img src="Screenshot/7.PNG">
 
+# **Langkah Pengerjaan**
 <br>
 Nomor 2:
 Untuk mempermudah mendapatkan informasi mengenai misi dari Handler, bantulah Loid membuat website utama dengan akses wise.yyy.com dengan alias www.wise.yyy.com pada folder wise 
