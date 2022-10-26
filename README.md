@@ -11,7 +11,6 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
 # **Topologi**
 <img src="Screenshot/1.PNG">
 <br>
- <br>
  Berikut adalah screenshot konfigurasi dari setiap komputer dalam topologi
  <br>
  Router:
