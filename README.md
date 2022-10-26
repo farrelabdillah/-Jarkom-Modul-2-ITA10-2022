@@ -9,7 +9,6 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
 <br>
 
 # **Topologi**
-<br>
 <img src="Screenshot/1.PNG">
 <br>
  <br>
@@ -32,7 +31,6 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
  <img src="Screenshot/7.PNG">
 
 # **Langkah Pengerjaan**
-<br>
 Nomor 2:
 Untuk mempermudah mendapatkan informasi mengenai misi dari Handler, bantulah Loid membuat website utama dengan akses wise.yyy.com dengan alias www.wise.yyy.com pada folder wise 
 <br>
