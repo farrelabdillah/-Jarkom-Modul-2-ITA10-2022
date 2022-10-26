@@ -10,7 +10,7 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
 
 **Topologi**
 <br>
-<img src="Screenshot/1.png">
+<img src="Screenshot/1.PNG">
 <br>
  Penjelasan topologi
  <br>
@@ -18,19 +18,19 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
  <br>
  Router:
  <br>
- <img src="Screenshot/2.png">
+ <img src="Screenshot/2.PNG">
  <br>
  Node:
  <br>
- <img src="Screenshot/3.png">
+ <img src="Screenshot/3.PNG">
  <br>
- <img src="Screenshot/4.png">
+ <img src="Screenshot/4.PNG">
  <br>
- <img src="Screenshot/5.png">
+ <img src="Screenshot/5.PNG">
  <br>
- <img src="Screenshot/6.png">
+ <img src="Screenshot/6.PNG">
  <br>
- <img src="Screenshot/7.png">
+ <img src="Screenshot/7.PNG">
 
 <br>
 Nomor 2:
