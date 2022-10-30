@@ -161,12 +161,6 @@ zone "wise.ita10.com" {
 };
 ```
 di /etc/bin/named.conf.local di node Berlint
-<br>
-<br>
-Test ping ke wise.ita10.com setelah Berlint dijadikan DNS Slave untuk domain utama:
-<br>
-<img src="Screenshot/11.PNG">
-<br> 
 
 <br>
 Nomor 6:
