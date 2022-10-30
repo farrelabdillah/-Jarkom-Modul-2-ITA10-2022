@@ -117,7 +117,7 @@ Buat juga reverse domain untuk domain utama
 
 Memasukkan 
 ```
-zone "2.214.192.in-addr.arpa" {
+zone "3.214.192.in-addr.arpa" {
     type master;
     file "/etc/bind/jarkom/3.214.192.in-addr.arpa";
 };
