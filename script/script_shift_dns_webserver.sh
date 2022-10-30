@@ -49,7 +49,7 @@ zone "eden.wise.ita10.com" {
     file "/etc/bind/jarkom/eden/eden.wise.ita10.com";
 };
 
-zone "2.214.192.in-addr.arpa" {
+zone "3.214.192.in-addr.arpa" {
     type master;
     file "/etc/bind/jarkom/3.214.192.in-addr.arpa";
 };
